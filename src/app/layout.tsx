@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Modern Todo App",
+  title: "TaskFlow",
   description: "A beautiful dark UI todo list app with advanced animations",
 };
 
